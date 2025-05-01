@@ -1,3 +1,11 @@
+# ANN with Backpropagation from Scratch
+
+This repository provides a complete implementation of an Artificial Neural Network (ANN) using the backpropagation algorithm from scratch in Python, without any ML libraries like TensorFlow or PyTorch. It covers two tasks: fitting a sine curve and predicting power output using the Combined Cycle Power Plant (CCPP) dataset.
+
+---
+
+## 📁 Folder Structure
+
 
 ---
 
