@@ -6,7 +6,6 @@ This repository provides a complete implementation of an Artificial Neural Netwo
 
 ## 📁 Folder Structure
 
-ann-backprop-from-scratch/ ├── Assignment 1 - ANN with Backprop.pdf # Problem statement and assignment details ├── combined+cycle+power+plant/ │ └── CCPP/ │ ├── Folds5x2_pp.ods # Original dataset (ODS format) │ ├── Folds5x2_pp.xlsx # Same dataset in XLSX format │ ├── Readme.txt # Dataset description │ └── Readme.txt~ # Backup file (may be ignored) ├── q1_fitting_sinx_curve.py # ANN to fit y = sin(x) using MSE loss ├── q2_ccpp_dataset.py # ANN to predict power output from CCPP dataset
 ---
 
 ## 🧠 Task 1: Fitting y = sin(x)
